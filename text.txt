@@ -4,8 +4,3 @@ sssssssssssssssssssssssss
 eeeeeeeeeeeeeeeeeeeeeee
 zzzzzzzzzzzzzzzzzzzzzzzzz
 cccccccccccccccccccccccc
-
-void master(int a) {
-a++;
-int c = a*a;
-}
