@@ -1,13 +1,9 @@
 qqqqqqqqqqqqqqqqqqqqqqqqqqq
 wwwwwwwwwwwwwwwwwwwwwwww
 sssssssssssssssssssssssss
-eeeeeeeeeeeeeeeeeeeeeee
+nnnnnnnnrrrrrrrrrrrrrrr
 zzzzzzzzzzzzzzzzzzzzzzzzz
 
-void master(int a, int b) {
-a--;
-int c = a*b;
-}
-
-cccccccccccccccccccccccc
+trtrtrtrtrtrtrt
+ddddddddd
 
